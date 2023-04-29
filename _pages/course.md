@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Texts and Resources"
-permalink: /texts/
+permalink: /course/
 author_profile: true
 ---
 
