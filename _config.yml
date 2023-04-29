@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Bobby Bao"
   avatar           : "ava.png"
-  bio              : "Bio"
+  bio              : "Math major at NYU"
   location         : "New York"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "bz226"
   google_plus      :
   keybase          :
   instagram        :
@@ -176,18 +176,23 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
+    output: false
+    permalink: /:collection/:path/
+  Courses:
     output: true
     permalink: /:collection/:path/
-
+  Materials:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -255,7 +260,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
