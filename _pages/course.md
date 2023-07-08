@@ -11,9 +11,10 @@ Math-UA 348 Honors Algebra I\
 Math-UA 238 Honors Theory of Probability\
 Math-UA 396 Honors Numerical Analysis\
 Math-GA 2902 Stochastic Calculus\
-CSCI-UA 102 Data Structure
+CSCI-UA 102 Data Structure\
+CSCI-UA 9473 Fundamentals of Machine Learning
 
-Ongoing\
+### Ongoing
 Math-GA 2430 Real Variable I\
 Math-GA 2911 Probability Theory I\
 Math-GA 2350 Differential Geometry\
