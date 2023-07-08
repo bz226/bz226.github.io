@@ -12,6 +12,7 @@ author_profile: true
 - Math-UA 238 Honors Theory of Probability
 - [Math-UA 396 Honors Numerical Analysis](https://cims.nyu.edu/~oneil/courses/sp23-math396/)
 - Math-GA 2902 Stochastic Calculus
+
 ### Computer Science 
 - CSCI-UA 102 Data Structure
 - CSCI-UA 9473 Fundamentals of Machine Learning
